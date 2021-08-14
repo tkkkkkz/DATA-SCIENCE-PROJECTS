@@ -4,13 +4,13 @@
 
 You could look into the projects in an order of value to me:
 
-<img align="left" width="250" height="150" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/f3ce50cda28cfcc16f3959409f31a27b13baaffc/Walmart%20Sales%20Forecast/walmart-milpitas.jpg"> **[Walmart Sales Forecast: regression problem, detailed exploratory analysis, various data visualization](//github.com/tkkkkkz/Data_Science_Projects/tree/main/Walmart%20Sales%20Forecast)**
+<img align="left" width="200" height="120" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/f3ce50cda28cfcc16f3959409f31a27b13baaffc/Walmart%20Sales%20Forecast/walmart-milpitas.jpg"> **[Walmart Sales Forecast: regression problem, detailed exploratory analysis, various data visualization](//github.com/tkkkkkz/Data_Science_Projects/tree/main/Walmart%20Sales%20Forecast)**
 <br><br><br><br><br>
 #
-<img align="left" width="250" height="150" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/945a154ccdf640dfa618159599a3855eeb2afb56/Predicting%20Red%20Hat%20Business%20Value/Business-Value-1280x720.jpg">**[Red Hat Business Value Prediction: classification problem, detailed data wranging ](//github.com/tkkkkkz/Data_Science_Projects/tree/main/Predicting%20Red%20Hat%20Business%20Value)**
+<img align="left" width="200" height="120" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/945a154ccdf640dfa618159599a3855eeb2afb56/Predicting%20Red%20Hat%20Business%20Value/Business-Value-1280x720.jpg">**[Red Hat Business Value Prediction: classification problem, detailed data wranging ](//github.com/tkkkkkz/Data_Science_Projects/tree/main/Predicting%20Red%20Hat%20Business%20Value)**
 <br><br><br><br><br>
 #
-<img align="left" width="250" height="150" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/0233155191970a378eb1346467251516951436c3/Titanic/St%C3%B6wer_Titanic.jpg">**[Titanic--data exploratory analysis, randomforest classification modeling](https://github.com/tkkkkkz/Data_Science_Projects/tree/main/Titanic)**
+<img align="left" width="200" height="120" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/0233155191970a378eb1346467251516951436c3/Titanic/St%C3%B6wer_Titanic.jpg">**[Titanic--data exploratory analysis, randomforest classification modeling](https://github.com/tkkkkkz/Data_Science_Projects/tree/main/Titanic)**
 <br><br><br><br><br><br><br>
 
 **About Me**
