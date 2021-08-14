@@ -11,10 +11,8 @@ You could look into the projects in an order of value to me:
 <br><br><br><br><br>
 #
 <img align="left" width="200" height="120" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/0233155191970a378eb1346467251516951436c3/Titanic/St%C3%B6wer_Titanic.jpg">**[Titanic--data exploratory analysis, randomforest classification modeling](https://github.com/tkkkkkz/Data_Science_Projects/tree/main/Titanic)**
-<br><br><br><br><br><br><br>
-
-**About Me**
-<br><br>
+<br><br><br><br><br><br>
+### About Me
 I am a Ph.D in particle physics. Before switching to data science, I conducted interdisciplinary research at Stanford.my research is to quantify the expoure of airborne pollutants to human beings. I have used multiply methods to quantify the exposure of secondhand marijuana emissions, and electronic cigarette emissions in various environmental settings. 
 <br><br>
-For showcase my analysis skills, and demonstrate writing skills, you can check out my last publications [HERE](https://scholar.google.com/citations?user=L5rUhVwAAAAJ&hl=en).
+Feel free to check out my latest research publications [HERE](https://scholar.google.com/citations?user=L5rUhVwAAAAJ&hl=en)!
