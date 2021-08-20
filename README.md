@@ -10,11 +10,11 @@ This project is to predict the sales of each department in each Walmart store ba
 <img align="left" width="200" height="120" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/945a154ccdf640dfa618159599a3855eeb2afb56/Predicting%20Red%20Hat%20Business%20Value/Business-Value-1280x720.jpg">**[Red Hat Business Value Prediction](//github.com/tkkkkkz/Data_Science_Projects/tree/main/Predicting%20Red%20Hat%20Business%20Value)**<br>
 This project aims to build a model that uses users' behavioral data to predict if an individual has business value. The dataset contains more than 2 million activities with 52 features. With the prediction model, the company will be able to more efficiently prioritize resources to generate more business and better serve their customers.
 #
-<img align="left" width="200" height="120" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/0233155191970a378eb1346467251516951436c3/Titanic/St%C3%B6wer_Titanic.jpg">**[Titanic-Machine Learning on Survival](https://github.com/tkkkkkz/Data_Science_Projects/tree/main/Titanic)**<br>
+<img align="left" width="200" height="120" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/e327a747ee42dbaa0c291d689f4e5be286ca9ff8/Data%20Visualization_Tableau/Acterra-Logo.jpg">**[Tableau Data Visualization Projects](https://github.com/tkkkkkz/Data_Science_Projects/tree/main/Data%20Visualization_Tableau)**<br>
 This project is to use machine learning algorithms to predict which passengers survived the Titanic shipwreck. 
 <br><br><br>
 #
-
+<img align="left" width="200" height="120" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/0233155191970a378eb1346467251516951436c3/Titanic/St%C3%B6wer_Titanic.jpg">
 ### About Me
 I am a Ph.D in particle physics. Before switching to data science, I conducted interdisciplinary research at Stanford. My research is to quantify and model the expoure of environmental pollutants. I have used multiply methods to measure and simulate the exposure of secondhand marijuana and electronic cigarette emissions. 
 <br><br>
