@@ -18,8 +18,14 @@ This folder contains my data visualization for Acterra and some coursework. As a
 #
 
 ### About Me
-I am a Ph.D. in physics. I enjoy exploring unknowns from data. Also keen to shape my findings into interesting stories and impactful recommendations. 
+
+I am an environmental scientist who has a Ph.D. in physics. I enjoy exploring unknowns from data. Also keen to shape my findings into interesting stories and impactful recommendations. 
 <br><br>
 Before switching to data science, I conducted interdisciplinary research on air pollutants at Stanford. I studied the quantitative assessment of exposure to secondhand marijuana smoke and electronic cigarette vapor. I also model their transport and transform. Feel free to check out my latest research publications [HERE](https://scholar.google.com/citations?user=L5rUhVwAAAAJ&hl=en)!
-<br><br>
+#### Skills
+<ul>
+<li>Programming and Tools👩‍💻: Python (Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn), SQL, C++, Tableau; </li>
+<li>Analytics and Algorithms💡: Machine Learning, Hypothesis Testing, Statistical Inference, A/B Testing, Data Mining; </li>
+ </ul
+<br>
 In my spare time, I am a kickboxing beginner🥊, and a pandemic-acrylic-painter🎨. 
