@@ -13,7 +13,7 @@ This project aims to build a model that employs users' behavioral data to predic
 <img align="left" width="200" height="120" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/0233155191970a378eb1346467251516951436c3/Titanic/St%C3%B6wer_Titanic.jpg">**[Titanic Survival Prediction](https://github.com/tkkkkkz/Data_Science_Projects/tree/main/Titanic)**<br>
 This project is to use machine learning algorithms to predict which passengers survived the Titanic shipwreck. There are 10 features of passengers are provided, including gender, age, name, ticket fare, cabin class, etc. This is a classic binary classification problem. 
 #
-<img align="left" width="200" height="120" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/e327a747ee42dbaa0c291d689f4e5be286ca9ff8/Data%20Visualization_Tableau/Acterra-Logo.jpg">**[Tableau Data Visualization Projects](https://github.com/tkkkkkz/Data_Science_Projects/tree/main/Data%20Visualization_Tableau)**<br>
+<img align="left" width="200" height="130" src="https://github.com/tkkkkkz/Data_Science_Projects/blob/e327a747ee42dbaa0c291d689f4e5be286ca9ff8/Data%20Visualization_Tableau/Acterra-Logo.jpg">**[Tableau Data Visualization Projects](https://github.com/tkkkkkz/Data_Science_Projects/tree/main/Data%20Visualization_Tableau)**<br>
 This folder contains my data visualization for Acterra and some coursework. As an Environmental Enthusiast, I worked at Acterra as a volunteer. It is a non-profit organization that aims to combat climate change. To have a better event promotion, I helped them to analyze audience profiles of their events and summarized that information into dashborads.
 #
 
